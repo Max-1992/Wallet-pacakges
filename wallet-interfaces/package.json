@@ -1,0 +1,16 @@
+{
+  "name": "wallet-interfaces",
+  "version": "1.0.0",
+  "description": "This package has all the interfaces of the different layers for the Virtual Wallet api.",
+  "main": "./index.js",
+  "typings": "./index.d.ts",
+  "keywords": [
+    "wallet, wallet-interface",
+    "interface"
+  ],
+  "author": "maximiliano <maximiliano.echevarria>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"movement.interface.d.ts","sourceRoot":"","sources":["movement.interface.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,QAAQ,CAAC;AAEtC,MAAM,WAAW,SAAS;IACtB,EAAE,EAAE,MAAM,CAAC;IACX,OAAO,EAAE,MAAM,CAAC;IAChB,IAAI,EAAE,YAAY,CAAC;IACnB,MAAM,EAAE,MAAM,CAAC;IACf,UAAU,CAAC,EAAE,IAAI,CAAC;IAClB,UAAU,CAAC,EAAE,IAAI,CAAC;CACrB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"IBalance.model.d.ts","sourceRoot":"","sources":["IBalance.model.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,aAAa;IAC1B,EAAE,EAAE,MAAM,CAAC;IACX,OAAO,EAAE,MAAM,CAAC;IAChB,MAAM,EAAE,MAAM,CAAC;IACf,UAAU,CAAC,EAAE,IAAI,CAAC;IAClB,UAAU,CAAC,EAAE,IAAI,CAAC;CACrB"}

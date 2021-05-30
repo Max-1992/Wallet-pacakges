@@ -1,0 +1,1 @@
+{"version":3,"file":"IMovement.mapper.d.ts","sourceRoot":"","sources":["IMovement.mapper.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,kBAAkB,EAAE,kBAAkB,EAAE,MAAM,OAAO,CAAC;AAC/D,OAAO,EAAE,cAAc,EAAE,MAAM,aAAa,CAAC;AAE7C,MAAM,WAAW,iBAAiB;IAC9B,0BAA0B,CAAC,WAAW,EAAE,kBAAkB,GAAG,cAAc,CAAA;IAC3E,0BAA0B,CAAC,WAAW,EAAE,kBAAkB,GAAG,cAAc,CAAA;CAC9E"}

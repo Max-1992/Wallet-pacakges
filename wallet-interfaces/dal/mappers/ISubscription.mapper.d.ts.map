@@ -1,0 +1,1 @@
+{"version":3,"file":"ISubscription.mapper.d.ts","sourceRoot":"","sources":["ISubscription.mapper.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,sBAAsB,EAAE,sBAAsB,EAAE,MAAM,OAAO,CAAC;AACvE,OAAO,EAAE,kBAAkB,EAAE,MAAM,aAAa,CAAC;AAEjD,MAAM,WAAW,qBAAqB;IAClC,0BAA0B,CAAC,eAAe,EAAE,sBAAsB,GAAG,kBAAkB,CAAA;IACvF,0BAA0B,CAAC,eAAe,EAAE,sBAAsB,GAAG,kBAAkB,CAAA;CAC1F"}

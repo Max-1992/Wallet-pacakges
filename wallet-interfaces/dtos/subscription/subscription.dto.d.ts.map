@@ -1,0 +1,1 @@
+{"version":3,"file":"subscription.dto.d.ts","sourceRoot":"","sources":["subscription.dto.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,sBAAsB;IACnC,IAAI,EAAE,MAAM,CAAC;IACb,OAAO,EAAE,MAAM,CAAC;IAChB,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,MAAM,CAAC;CAChB;AAED,MAAM,WAAW,sBAAsB;IACnC,IAAI,EAAE,MAAM,CAAC;IACb,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,MAAM,CAAC;CAChB"}

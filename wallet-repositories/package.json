@@ -1,0 +1,21 @@
+{
+  "name": "wallet-repositories",
+  "version": "1.0.0",
+  "description": "This package contains all the methods that interact with the database for the Virtual Wallet API.",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "wallet-interfaces": "^1.0.0"
+  },
+  "keywords": [
+    "wallet",
+    "wallet-repositories",
+    "wallet-repository",
+    "walletRepository"
+  ],
+  "author": "maximiliano <maximiliano.echevarria>",
+  "license": "MIT"
+}
